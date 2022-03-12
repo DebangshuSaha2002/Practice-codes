@@ -11,7 +11,7 @@ void Difference(struct TIME t1, struct TIME t2, struct TIME *diff);
 
 int main()
 {
-//Ghanendra Yadav
+
 
 struct TIME t1,t2,diff;
 
