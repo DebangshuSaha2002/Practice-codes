@@ -25,7 +25,7 @@ int main()
     printf("\nThe details of emplyoees are :\n");
     for(i=0;i<5;i++)
     {
-        printf("%s\t%s\t%d", s[i].name, s[i].designation, s[i].salary);
+        printf("%s\t%s\t%d \n", s[i].name, s[i].designation, s[i].salary);
     }
     return 0;
 }
